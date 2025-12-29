@@ -21,7 +21,7 @@ System.out.println("bool:"+bool);
 }
 ```
 # output
-![display of primitive data types](exp1.png)
+![display of primitive data types](exp1a.png)
 
 # Title : 1b) display of quadratic equation
 ```
