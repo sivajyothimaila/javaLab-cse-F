@@ -21,4 +21,4 @@ System.out.println("bool:"+bool);
 }
 ```
 # output
-![display of primitive data types](exp_1a (2).png)
+![display of primitive data types](exp1a.png)
