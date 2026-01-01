@@ -1,0 +1,24 @@
+#experiment2/
+## Title:2a.)display of method
+class Square {
+  int length;
+  int area of square()
+  {
+  return length*length;
+  }
+  int perimeter of square()
+  {
+  return 4*length;
+  }
+}
+class main {
+public static void main(String args[]) {
+square sq=new square();
+sq.lenght=s;
+int area=sq.area of square();
+int perimeter=sq.perimeter of square();
+System.out.println("area of  a square:"+area);
+System.out.println("perimeter of a square:"+perimeter);
+}
+} 
+```
