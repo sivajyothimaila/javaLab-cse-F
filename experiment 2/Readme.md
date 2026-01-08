@@ -74,4 +74,4 @@ class main{
 }
 ```
 # OUTPUT
-![output of   class customer in java](2c.png)
+![output of   class customer in java](2c.PNG)
