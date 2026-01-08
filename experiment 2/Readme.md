@@ -47,4 +47,4 @@ class main{
 }
 ```
 # OUTPUT
-![output of overloading in java](2b.PNG)
+![output of overloading in java](2b.png)
