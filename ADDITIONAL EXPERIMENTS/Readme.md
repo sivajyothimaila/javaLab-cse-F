@@ -28,4 +28,4 @@ class Substring {
 
 ```
 # output
-![output of substring](substring.PNG)
+![output of substring](substring.png)
